@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\d56f8224ee08f7e429df21d0c2a77d16\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\44a7c29651d2ca04ec80d8da9d0e2c90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\3f87a171e3f7bbf5939262640f8faabd\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\e100417fb5ab8a5ec1f3de7cb9f9c150\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\3489b10359589992947c6dae105d94e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\47b75044779048d6221fe46d3e9f15a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\c1bbe9484a8463296f2f2d348f593db2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\158297e12da6dc9fa092383db54a50a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\b56a4703fe073cab2d97c9e811e77236\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\fc3a148d63900afb35d1978384a494eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\08c58d73170eba8f1c200220ff7b661a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\335713da0a2a1ef44b4919d3aa83c278\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\3644725cf56afaca07ea91a10d3bf766\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\2c5832789f9866ba4daabd79ca4d7111\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\9b1025b6cd62849d5ca87680f2a001a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\0a2cb16a801f2fa17095d3edcec8dce1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\1349b4ba0c0b0a2b944bac065f7659ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\294ecbcde7897bf865bc5ce879d49e88\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\907f427ea205046771623bb60de0c57b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\dadc0f4ebcf5ea8e0d525337f0923192\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\32055441f77636d2c3afff9af0641774\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\063a9d60e1b5b864b9565e2cbaaa79c5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\00b296b9de066cff0eef3832e24eaa3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\1810c419e9781de1b689bce97d6c5ee3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\ecfdd8bfca8d60fb8abdeaec35b4c250\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\e133877f314c4e7f6629a5034490d9b7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\b062d168b962e913627d5d279640f9c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\ac2f859e579f9d2338ac11f878d4d464\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\2e9940a65e5232c9f94af8fb23c5fdc6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\a5439dc86d18990e2ff77da42fdbc0a3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\13b41113d34094d39b24895a6b0129a8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:8:5-30:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\d56f8224ee08f7e429df21d0c2a77d16\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\d56f8224ee08f7e429df21d0c2a77d16\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\3f87a171e3f7bbf5939262640f8faabd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\3f87a171e3f7bbf5939262640f8faabd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\907f427ea205046771623bb60de0c57b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\907f427ea205046771623bb60de0c57b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\dadc0f4ebcf5ea8e0d525337f0923192\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\dadc0f4ebcf5ea8e0d525337f0923192\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\907f427ea205046771623bb60de0c57b\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:15:9-48
+	android:roundIcon
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.byted.camp.todolist.MainActivity
+ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.byted.camp.todolist.debug.DebugActivity
+ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:26:9-57
+	android:name
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:26:19-54
+activity#com.byted.camp.todolist.NoteActivity
+ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:27:19-47
+activity#com.byted.camp.todolist.debug.FileDemoActivity
+ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:28:9-60
+	android:name
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:28:19-57
+activity#com.byted.camp.todolist.debug.SpDemoActivity
+ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:29:9-58
+	android:name
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:29:19-55
+uses-sdk
+INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\d56f8224ee08f7e429df21d0c2a77d16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\d56f8224ee08f7e429df21d0c2a77d16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\44a7c29651d2ca04ec80d8da9d0e2c90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\44a7c29651d2ca04ec80d8da9d0e2c90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\3f87a171e3f7bbf5939262640f8faabd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\3f87a171e3f7bbf5939262640f8faabd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\e100417fb5ab8a5ec1f3de7cb9f9c150\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\e100417fb5ab8a5ec1f3de7cb9f9c150\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\3489b10359589992947c6dae105d94e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\3489b10359589992947c6dae105d94e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\47b75044779048d6221fe46d3e9f15a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\47b75044779048d6221fe46d3e9f15a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\c1bbe9484a8463296f2f2d348f593db2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\c1bbe9484a8463296f2f2d348f593db2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\158297e12da6dc9fa092383db54a50a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\158297e12da6dc9fa092383db54a50a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\b56a4703fe073cab2d97c9e811e77236\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\b56a4703fe073cab2d97c9e811e77236\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\fc3a148d63900afb35d1978384a494eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\fc3a148d63900afb35d1978384a494eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\08c58d73170eba8f1c200220ff7b661a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\08c58d73170eba8f1c200220ff7b661a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\335713da0a2a1ef44b4919d3aa83c278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\335713da0a2a1ef44b4919d3aa83c278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\3644725cf56afaca07ea91a10d3bf766\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\3644725cf56afaca07ea91a10d3bf766\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\2c5832789f9866ba4daabd79ca4d7111\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\2c5832789f9866ba4daabd79ca4d7111\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\9b1025b6cd62849d5ca87680f2a001a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\9b1025b6cd62849d5ca87680f2a001a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\0a2cb16a801f2fa17095d3edcec8dce1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\0a2cb16a801f2fa17095d3edcec8dce1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\1349b4ba0c0b0a2b944bac065f7659ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\1349b4ba0c0b0a2b944bac065f7659ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\294ecbcde7897bf865bc5ce879d49e88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\294ecbcde7897bf865bc5ce879d49e88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\907f427ea205046771623bb60de0c57b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\907f427ea205046771623bb60de0c57b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\dadc0f4ebcf5ea8e0d525337f0923192\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\dadc0f4ebcf5ea8e0d525337f0923192\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\32055441f77636d2c3afff9af0641774\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\32055441f77636d2c3afff9af0641774\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\063a9d60e1b5b864b9565e2cbaaa79c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\063a9d60e1b5b864b9565e2cbaaa79c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\00b296b9de066cff0eef3832e24eaa3f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\00b296b9de066cff0eef3832e24eaa3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\1810c419e9781de1b689bce97d6c5ee3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\1810c419e9781de1b689bce97d6c5ee3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\ecfdd8bfca8d60fb8abdeaec35b4c250\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\ecfdd8bfca8d60fb8abdeaec35b4c250\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\e133877f314c4e7f6629a5034490d9b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\e133877f314c4e7f6629a5034490d9b7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\b062d168b962e913627d5d279640f9c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\b062d168b962e913627d5d279640f9c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\ac2f859e579f9d2338ac11f878d4d464\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\ac2f859e579f9d2338ac11f878d4d464\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\2e9940a65e5232c9f94af8fb23c5fdc6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\2e9940a65e5232c9f94af8fb23c5fdc6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\a5439dc86d18990e2ff77da42fdbc0a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\a5439dc86d18990e2ff77da42fdbc0a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\13b41113d34094d39b24895a6b0129a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\syx2000\.gradle\caches\transforms-2\files-2.1\13b41113d34094d39b24895a6b0129a8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\syx2000\Desktop\graph\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml

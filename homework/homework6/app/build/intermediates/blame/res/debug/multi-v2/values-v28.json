@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\syx2000\\Desktop\\graph\\chapter-6\\Demo\\todolist\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\syx2000\\.gradle\\caches\\transforms-2\\files-2.1\\44a7c29651d2ca04ec80d8da9d0e2c90\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                }
+            ]
+        }
+    ]
+}
