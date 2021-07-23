@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\syx2000\\Desktop\\Android\\android-campus-2021\\chapter-7\\MediaWorksDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\syx2000\\Desktop\\summer_camp\\homework\\homework7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
                     "source": "C:\\Users\\syx2000\\.gradle\\caches\\transforms-2\\files-2.1\\deeb075feedbe52ffb4e36f5b698af53\\material-1.1.0\\res\\values-night-v8\\values-night-v8.xml",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\syx2000\\Desktop\\Android\\android-campus-2021\\chapter-7\\MediaWorksDemo\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\syx2000\\Desktop\\summer_camp\\homework\\homework7\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

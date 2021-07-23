@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\syx2000\\Desktop\\Android\\android-campus-2021\\chapter-7\\MediaWorksDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
+            "outputFile": "C:\\Users\\syx2000\\Desktop\\summer_camp\\homework\\homework7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\syx2000\\.gradle\\caches\\transforms-2\\files-2.1\\e601daed4ba62929db8b322b2974c8f8\\core-1.1.0\\res\\values-kn\\values-kn.xml",
